@@ -63,3 +63,9 @@ ol, ul {
   background: firebrick;
   border-radius: 3px; 
 }
+ol {
+  list-style: none;
+}
+.winner {
+  background-color: yellow;
+}
